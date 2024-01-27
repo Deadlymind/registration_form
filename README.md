@@ -4,6 +4,9 @@
 
 ![Project Image](https://raw.githubusercontent.com/Deadlymind/registration_form/main/readme_image.png)
 
+[![Project Video](src/readme_image.png)](src/Recording.mp4)
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Django Version](https://img.shields.io/badge/Django-4.2-blue.svg)](https://www.djangoproject.com/)
