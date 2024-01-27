@@ -11,6 +11,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Django Version](https://img.shields.io/badge/Django-4.2-blue.svg)](https://www.djangoproject.com/)
 [![Python Version](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![JavaScript Version](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.javascript.com/)
+[![HTML Version](https://img.shields.io/badge/HTML-5-orange.svg)](https://html.spec.whatwg.org/multipage/)
+[![CSS Version](https://img.shields.io/badge/CSS-3-blue.svg)](https://www.w3.org/Style/CSS/)
+
 
 > A simple Django registration form with email notification.
 
