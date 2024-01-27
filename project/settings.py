@@ -141,4 +141,4 @@ EMAIL_USE_TLS = True
 
 # Use config method to get environment variables
 EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='oussamaayari2014@gmail.com')
-EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='esqz amfx wspi cieh')
+EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='ADD_YOUR_PASSWORD')
