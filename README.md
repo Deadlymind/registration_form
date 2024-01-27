@@ -9,7 +9,7 @@
 > A simple Django registration form with email notification.
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
 [![Django Version](https://img.shields.io/badge/Django-4.2-blue.svg)](https://www.djangoproject.com/)
 [![Python Version](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![JavaScript Version](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.javascript.com/)
