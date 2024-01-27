@@ -2,9 +2,9 @@
 >
 > # Django Registration Form
 
-<!-- ![Project Image](https://raw.githubusercontent.com/Deadlymind/registration_form/main/readme_image.png) -->
+![Project Image](https://raw.githubusercontent.com/Deadlymind/registration_form/main/readme_image.png)
 
-[![Project Video](src/readme_image.png)](src/Recording.mp4)
+<!-- [![Project Video](src/readme_image.png)](src/Recording.mp4) -->
 
 
 
