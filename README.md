@@ -107,6 +107,7 @@ If you'd like to contribute, please fork the repository and create a new branch.
 
 ## License
 
-This project is open source. 
+This project is available as open source. 
 
-zzzz
+
+
