@@ -2,7 +2,7 @@
 >
 > # Django Registration Form
 
-![Project Image](https://raw.githubusercontent.com/Deadlymind/registration_form/main/readme_image.png)
+<!-- ![Project Image](https://raw.githubusercontent.com/Deadlymind/registration_form/main/readme_image.png) -->
 
 <!-- [![Project Video](src/readme_image.png)](src/Recording.mp4) -->
 
@@ -15,6 +15,7 @@
 [![HTML Version](https://img.shields.io/badge/HTML-5-orange.svg)](https://html.spec.whatwg.org/multipage/)
 [![CSS Version](https://img.shields.io/badge/CSS-3-blue.svg)](https://www.w3.org/Style/CSS/)
 
+![Project Image](https://raw.githubusercontent.com/Deadlymind/registration_form/main/readme_image.png)
 
 > A simple Django registration form with email notification.
 
